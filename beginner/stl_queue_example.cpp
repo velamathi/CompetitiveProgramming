@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	//first in first out
+	//first in first out  
 	queue<int> qu;
 	qu.push(1); // {1}
 	qu.push(2); //{1,2}
