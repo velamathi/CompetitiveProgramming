@@ -2,9 +2,10 @@
 using namespace std;
 
 int main(){
-	long long int a,b;
+	int a;
+	long long b;
 	string s, pre_s;
-	vector <long long int> vec, pre_vec;
+	vector <int> vec, pre_vec;
 	
 	cin >> a >>b;
 	for(int i=0; i<a; i++){
